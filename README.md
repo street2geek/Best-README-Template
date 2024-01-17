@@ -109,7 +109,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Deno][Deno.com]][Deno-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
